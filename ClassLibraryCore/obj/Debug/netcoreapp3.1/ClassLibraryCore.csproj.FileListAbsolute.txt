@@ -1,0 +1,12 @@
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\bin\Debug\netcoreapp3.1\ClassLibraryCore.deps.json
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\bin\Debug\netcoreapp3.1\ClassLibraryCore.runtimeconfig.json
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\bin\Debug\netcoreapp3.1\ClassLibraryCore.runtimeconfig.dev.json
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\bin\Debug\netcoreapp3.1\ClassLibraryCore.dll
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\bin\Debug\netcoreapp3.1\ClassLibraryCore.pdb
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.csproj.CoreCompileInputs.cache
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.AssemblyInfoInputs.cache
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.AssemblyInfo.cs
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.dll
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.pdb
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.genruntimeconfig.cache
+C:\Users\Ansuya\Desktop\Naveen\Testonline\Magic\ClassLibraryCore\obj\Debug\netcoreapp3.1\ClassLibraryCore.csprojAssemblyReference.cache
